@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env / environment files
+.venv/
+venv/
+env/
+.env
+
+# Pytest / coverage / reports
+.pytest_cache/
+.coverage
+htmlcov/
+reports/
+coverage.xml
+
+# Logs
+logs/
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter (if ever used)
+.ipynb_checkpoints/
