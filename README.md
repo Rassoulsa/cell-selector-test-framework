@@ -5,7 +5,7 @@
 # Embedded Device Test Automation Framework  
 ### Robotic Cell-Selection System Validation
 
-## 📌 Overview
+## Overview
 This project implements an automated test framework for validating an embedded robotic imaging system used in cell-selection devices.  
 It focuses on structured software testing, hardware abstraction, and automated validation of device workflows.
 
@@ -17,7 +17,7 @@ The framework simulates real-world testing of embedded medical devices by combin
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Develop automated test workflows for embedded systems  
 - Validate hardware-software integration  
 - Implement component, functional, integration, and end-to-end tests  
@@ -26,7 +26,7 @@ The framework simulates real-world testing of embedded medical devices by combin
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 Communication Layer
 ├─ Serial Client
@@ -50,7 +50,7 @@ Test Suites
 ├─ Functional Tests
 ├─ Integration Tests
 └─ End-to-End Tests
-## 🧪 Test Levels
+## Test Levels
 
 ### Component Tests
 Validation of individual subsystems:
@@ -80,7 +80,7 @@ Full system workflow simulation:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Python 3.x  
 - pytest  
 - pyserial  
@@ -89,7 +89,7 @@ Full system workflow simulation:
 
 ---
 
-## 📊 Reporting
+## Reporting
 The framework generates structured test reports including:
 - Execution summary
 - Pass / Fail statistics
@@ -100,7 +100,7 @@ Reports are exported in JSON format for CI/CD and dashboard integration.
 
 ---
 
-## 🚀 How to Run Tests
+## How to Run Tests
 
 ### Run all tests
 ```bash
