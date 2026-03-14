@@ -35,3 +35,6 @@ dist/
 
 # Jupyter (if ever used)
 .ipynb_checkpoints/
+
+report.html
+htmlcov/
