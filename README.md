@@ -1,3 +1,7 @@
+
+![CI](https://github.com/Rassoulsa/cell-selector-test-framework/actions/workflows/ci.yml/badge.svg)
+
+
 # Embedded Device Test Automation Framework  
 ### Robotic Cell-Selection System Validation
 
