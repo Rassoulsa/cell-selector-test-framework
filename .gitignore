@@ -38,3 +38,5 @@ dist/
 
 report.html
 htmlcov/
+test_results.db
+temp_test_results.db
